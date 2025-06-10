@@ -1,5 +1,5 @@
 {
-  "name": "use-keyboard-shortcut",
+  "name": "use-keydown-shortcut",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
