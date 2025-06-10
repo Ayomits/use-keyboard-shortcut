@@ -1,0 +1,27 @@
+{
+  "name": "use-keyboard-shortcut",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "types:check": "npx tsc --build",
+    "build": "npx tsc --build"
+  },
+  "peerDependencies": {
+    "react": "^16.8"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "keyboard",
+    "typescript",
+    "javascript"
+  ],
+  "author": "ayo",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
