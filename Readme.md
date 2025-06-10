@@ -11,7 +11,7 @@ I've created this library for decrease boilerplate in code
  * The first argument is condition
  *
  * */
-useKeydownCombination(ev => ev.ctrlKey && ev.code === "KeyB", () => console.log("Ctrl + B is pressed"))
+useKeyboardShortcut(ev => ev.ctrlKey && ev.code === "KeyB", () => console.log("Ctrl + B is pressed"))
 ```
 
 For better typization you can use my another package called as `ts-keyboard-enum`
