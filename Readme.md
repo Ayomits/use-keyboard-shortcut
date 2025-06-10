@@ -1,4 +1,4 @@
-# use-keydown-shortcut
+# use-keydown-keyboard-shortcut
 
 I've created this library for decrease boilerplate in code
 
